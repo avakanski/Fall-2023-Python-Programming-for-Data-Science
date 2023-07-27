@@ -1,6 +1,6 @@
 _pdf_link_lecture1:
 
-PDF Title
+Lecture 1 - A Short History and Current State of Artificial Intelligence
 -----------
 
 .. raw:: html
