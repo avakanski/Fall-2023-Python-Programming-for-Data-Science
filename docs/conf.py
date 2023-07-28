@@ -31,18 +31,16 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 # Add any paths that contain templates here, relative to this directory.
+# The template links to a custom style css to increase the width of displayed content
 templates_path = ['_templates']
 
 # -- Options for HTML output
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for a list of builtin themes.
+# -- The theme to use for HTML and HTML Help pages.  See the documentation for a list of builtin themes.
 html_theme = 'sphinx_rtd_theme'
 
 # -- Path to static files
 html_static_path = ['_static']
-
-# -- Custom css to increase the width of displayed content
-# html_css_files = ['css/custom.css',]
 
 master_doc = 'index'
 
