@@ -7,11 +7,19 @@ Semester: Fall 2023 (August 21 – December 15)
 
 <a href="docs/Lectures/CS_404_504-ST_Python_Programming_for_Data_Science-Syllabus.pdf">Course Syllabus</a>
 
+# Course web pages:
+
+[Main web page](https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/)
+
+[GitHub web page](https://github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/main/README.md)
+
+
 # Lectures:
 * <a href="docs/Lectures/Lecture_1-A_Short_History_of_AI/Lecture_1-A_Short_History_of_AI.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
 ## Theme 1: Python Programming
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb">Lecture 2 - Data Types in Python</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
+
 (new lectures will be added throughut the semester)
 
 # Course Description
