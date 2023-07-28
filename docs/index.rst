@@ -7,17 +7,15 @@ Instructor: `Alex Vakanski <https://www.webpages.uidaho.edu/vakanski/index.html>
 
 Semester: Fall 2023 (August 21 – December 15)
 
+Web pages:
+'GitHub Course Page <https://github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/tree/main>`_
+
 `Course Syllabus <_static/CS_404_504-ST_Python_Programming_for_Data_Science-Syllabus.pdf>`_
 
 :download:`Download Course Syllabus <_static/CS_404_504-ST_Python_Programming_for_Data_Science-Syllabus.pdf>`
 
-'GitHub Course Page <https://github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/tree/main>`_
 
-Lectures:
----------
 
-* `Lecture 1 - A Short History and Current State of Artificial Intelligence <_static/Lectures/Lecture_1-A_Short_History_of_AI/Lecture_1-A_Short_History_of_AI.pdf>`_ 
-:download:`Download Lecture 1 <_static/Lectures/Lecture_1-A_Short_History_of_AI/Lecture_1-A_Short_History_of_AI.pdf>`
 
 .. toctree::
    :caption: Lecture 1 - Short History of AI
@@ -26,7 +24,7 @@ Lectures:
 
 .. toctree::
    :caption: Theme 1 - Python Programming
-   :maxdepth: 1
+   :maxdepth: 0
 
    Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb
    Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb
