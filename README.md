@@ -14,7 +14,7 @@ Semester: Fall 2023 (August 21 – December 15)
 
 ## Lectures:
 * <a href="docs/Lectures/Lecture_1-A_Short_History_of_AI/Lecture_1-A_Short_History_of_AI.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
-## Theme 1: Python Programming
+### Theme 1: Python Programming
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb">Lecture 2 - Data Types in Python</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
 
@@ -23,7 +23,7 @@ Semester: Fall 2023 (August 21 – December 15)
 ## Course Description
 The course is designed to introduce students to Python tools and libraries that are commonly used by organizations for managing the various phases in the life cycle of data science projects. The content is divided into four main themes. The first theme reviews the fundamentals of Python programming. The second theme focuses on data engineering and explores Python tools for data collection, exploration, and visualization. The next theme covers model engineering and includes topics related to model design, selection, and evaluation for image processing, natural language processing, and time series analysis. The last theme introduces Data Science Operations (DSOps) and encompasses techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production. Throughout the course, students will gain hands-on experience with various Python libraries for data science workflow management.
 
-# Textbooks
+## Textbooks
 1.	Joel Grus, [“Data Science from Scratch: First Principles with Python,”](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=pd_lpo_1?pd_rd_i=1492041130&psc=1) 2nd Edition, O'Reilly Media, 2019, ISBN: 9781492041139.
 2.	Chip Huyen, [“Designing Machine Learning Systems,”](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) O'Reilly Media, 2022, ISBN: 9781098107963.
 
