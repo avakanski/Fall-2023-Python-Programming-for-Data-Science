@@ -1,4 +1,4 @@
-_pdf_link_lecture1:
+# _pdf_link_lecture1:
 
 Lecture 1 - A Short History and Current State of Artificial Intelligence
 -----------
