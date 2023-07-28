@@ -22,8 +22,8 @@ The course is designed to introduce students to Python tools and libraries that 
 **Textbooks**
 ~~~~~~~~~~~~~~
 
-1.	Joel Grus, `Data Science from Scratch: First Principles with Python <https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=pd_lpo_1?pd_rd_i=1492041130&psc=1>`_ , 2nd Edition, O'Reilly Media, 2019, ISBN: 9781492041139.
-2.	Chip Huyen, `Designing Machine Learning Systems <https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969>`_, O'Reilly Media, 2022, ISBN: 9781098107963.
+1.	Joel Grus, `"Data Science from Scratch: First Principles with Python" <https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=pd_lpo_1?pd_rd_i=1492041130&psc=1>`_, 2nd Edition, O'Reilly Media, 2019, ISBN: 9781492041139.
+2.	Chip Huyen, `"Designing Machine Learning Systems" <https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969>`_, O'Reilly Media, 2022, ISBN: 9781098107963.
 
 **Learning Outcomes**
 ~~~~~~~~~~~~~~~~~~~~~
