@@ -1,5 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
+import sphinx_rtd_theme
+
 # -- Project information
 
 project = 'Fall 2023 Python Programming for Data Science'
@@ -17,6 +19,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_rtd_theme',
     'nbsphinx',
 ]
 
@@ -24,8 +27,10 @@ intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
+
 intersphinx_disabled_domains = ['std']
 
+# Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
 # -- Options for HTML output
