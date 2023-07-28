@@ -7,11 +7,13 @@ Instructor: `Alex Vakanski <https://www.webpages.uidaho.edu/vakanski/index.html>
 
 Semester: Fall 2023 (August 21 – December 15)
 
-`Course Syllabus <_static/CS_404_504-ST_Python_Programming_for_Data_Science-Syllabus.pdf>`_
+Course Syllabus <_static/CS_404_504-ST_Python_Programming_for_Data_Science-Syllabus.pdf>`_
 
-'Course website: <https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/>_
+| *Course website*: https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/
 
-GitHub Repository: _https://www.github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/blob/main/README.md
+| *GitHub Repository*: _https://www.github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/blob/main/README.md
+
+'Course website <https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/>'_
 
 **Course Description**
 
