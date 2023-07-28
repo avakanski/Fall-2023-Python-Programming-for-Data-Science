@@ -30,13 +30,18 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
+# The theme to use for HTML and HTML Help pages.  See the documentation for a list of builtin themes.
 html_theme = 'sphinx_rtd_theme'
 
 # -- Path to static files
 html_static_path = ['_static']
 
 # -- Custom css to increase the width of displayed content
-html_css_files = ['css/custom.css',]
+# html_css_files = ['css/custom.css',]
+
+master_doc = 'index'
+
+highlight_language = 'python3'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
