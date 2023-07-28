@@ -12,7 +12,8 @@ Semester: Fall 2023 (August 21 – December 15)
 Course website: <https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/>
 GitHub Repository: <https://www.github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/blob/main/README.md>
 
-Course Description
+**Course Description**
+
 The course is designed to introduce students to Python tools and libraries that are commonly used by organizations for managing the various phases in the life cycle of data science projects. The content is divided into four main themes. The first theme reviews the fundamentals of Python programming. The second theme focuses on data engineering and explores Python tools for data collection, exploration, and visualization. The next theme covers model engineering and includes topics related to model design, selection, and evaluation for image processing, natural language processing, and time series analysis. The last theme introduces Data Science Operations (DSOps) and encompasses techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production. Throughout the course, students will gain hands-on experience with various Python libraries for data science workflow management.
 
 Textbooks
