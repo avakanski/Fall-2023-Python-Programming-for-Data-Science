@@ -22,11 +22,11 @@ The course is designed to introduce students to Python tools and libraries that 
 **Textbooks**
 ~~~~~~~~~~~~~~
 
-1.	Joel Grus, “Data Science from Scratch: First Principles with Python,” 2nd Edition, O'Reilly Media, 2019, ISBN: 9781492041139.
-2.	Chip Huyen, “Designing Machine Learning Systems,” O'Reilly Media, 2022, ISBN: 9781098107963.
+1.	Joel Grus, '“Data Science from Scratch: First Principles with Python,” (https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=pd_lpo_1?pd_rd_i=1492041130&psc=1)'_ 2nd Edition, O'Reilly Media, 2019, ISBN: 9781492041139.
+2.	Chip Huyen, '“Designing Machine Learning Systems,” <https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969'>_ O'Reilly Media, 2022, ISBN: 9781098107963.
 
 **Learning Outcomes**
-~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 Upon the completion of the course, the students should demonstrate the ability to:
 
@@ -39,15 +39,16 @@ Upon the completion of the course, the students should demonstrate the ability t
 7.	Deploy data science projects as web applications using Flask, and to cloud servers using Microsoft’s Azure platform.
 
 **Prerequisites**
-
+~~~~~~~~~~~~~~~~~~
 The course requires to have basic programming skills in Python. While having knowledge of data science methods would be advantageous, it is not mandatory.
 
 **Grading**
-
+~~~~~~~~~~~~~~~~~~
 Student assessment will be based on 6 homework assignments (worth 60 pts), 3 quizzes (worth 30 marks), and class participation and engagement (worth 10 marks).
 
+
 Lectures
-========
+============
 
 .. toctree::
    :caption: Lecture 1 - Short History of AI
