@@ -25,6 +25,7 @@ The course is designed to introduce students to Python tools and libraries that 
 **Learning Outcomes**
 
 Upon the completion of the course, the students should demonstrate the ability to:
+
 1.	Attain proficiency with commonly used Python frameworks for managing the life cycle of data science projects.
 2.	Develop pipelines for integrating data from multiple sources, designing predictive models, and deploying the models.
 3.	Apply Python tools for data collection, analysis, and visualization, such as NumPy, Pandas, Matplotlib, and Seaborn, to real-world datasets.
