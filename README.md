@@ -7,11 +7,9 @@ Semester: Fall 2023 (August 21 – December 15)
 
 <a href="docs/Lectures/CS_404_504-ST_Python_Programming_for_Data_Science-Syllabus.pdf">Course Syllabus</a>
 
-# Course web pages:
+*Course website*: <https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/>
 
-[Main web page](https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/)
-
-[GitHub web page](https://github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/blob/main/README.md)
+*Course GitHub page*: <https://github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/blob/main/README.md>
 
 
 # Lectures:
