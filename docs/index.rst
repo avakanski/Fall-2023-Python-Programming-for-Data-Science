@@ -7,6 +7,7 @@ CS 404/504 – Special Topics: Python Programming for Data Science
 | *Course website*: https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/
 | *GitHub Repository*: https://www.github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/blob/main/README.md
 
+
 `Course Syllabus <_static/CS_404_504-ST_Python_Programming_for_Data_Science-Syllabus.pdf>`_
 
 **Course Description**
