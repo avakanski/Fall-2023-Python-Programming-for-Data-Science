@@ -35,11 +35,15 @@ Upon the completion of the course, the students should demonstrate the ability t
 7.	Deploy data science projects as web applications using Flask, and to cloud servers using Microsoft’s Azure platform.
 
 **Prerequisites**
+
 The course requires to have basic programming skills in Python. While having knowledge of data science methods would be advantageous, it is not mandatory.
 
 **Grading**
+
 Student assessment will be based on 6 homework assignments (worth 60 pts), 3 quizzes (worth 30 marks), and class participation and engagement (worth 10 marks).
 
+Lectures
+========
 
 .. toctree::
    :caption: Lecture 1 - Short History of AI
