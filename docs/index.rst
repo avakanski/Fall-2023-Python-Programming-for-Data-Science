@@ -5,7 +5,7 @@ CS 404/504 – Special Topics: Python Programming for Data Science
 | Instructor: `Alex Vakanski <https://www.webpages.uidaho.edu/vakanski/index.html>`_
 | Semester: Fall 2023 (August 21 – December 15)
 | *Course website*: https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/
-| *GitHub Repository*: https://www.github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/blob/main/README.md
+| *GitHub repository*: https://www.github.com/avakanski/Fall-2023-Python-Programming-for-Data-Science/blob/main/README.md
 
 Course Syllabus
 ~~~~~~~~~~~~~~~~~~~~~
