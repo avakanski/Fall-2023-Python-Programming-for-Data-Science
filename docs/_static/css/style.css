@@ -4,5 +4,13 @@
 
 /* Increase margin after code cells */
 div.highlight {
-  margin-bottom: 20px; /* Adjust this value as needed */
+  margin-bottom: 20px; 
+}
+
+div.output_area.docutils.container {
+  margin-bottom: 20px; 
+}
+
+div.nboutput.nblast.docutils.container {
+  margin-bottom: 20px; 
 }
