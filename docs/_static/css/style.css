@@ -14,3 +14,10 @@ div.output_area.docutils.container {
 div.nboutput.nblast.docutils.container {
   margin-bottom: 24px; 
 }
+
+/* Reduce margin after text cells from 24px to 12px */
+p {
+    line-height: 24px;
+    font-size: 16px;
+    margin: 0 0 12px;
+}
