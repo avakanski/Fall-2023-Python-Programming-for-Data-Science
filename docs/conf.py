@@ -18,7 +18,9 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.mathjax',
     'sphinx_rtd_theme',
+    'sphinx_copybutton',
     'sphinx_gallery.load_style',
 ]
 
