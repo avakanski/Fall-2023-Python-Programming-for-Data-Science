@@ -4,4 +4,4 @@ readthedocs-sphinx-ext
 nbsphinx==0.9.2
 ipython
 sphinx-gallery
-
+sphinx-copybutton
