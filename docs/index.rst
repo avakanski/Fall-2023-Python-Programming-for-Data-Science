@@ -57,5 +57,6 @@ Lectures
 
    Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb
    Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb
+   Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators,_Generators/Lecture_4-Functions,_Iterators,_Generators.ipynb
 
 (new lectures will be added throughout the semester)
