@@ -3,7 +3,7 @@
 
 Instructor: [Alex Vakanski](https://www.webpages.uidaho.edu/vakanski/index.html)
 
-Teaching Assistant: Longze Li (li8975@vandals.uidaho.edu)
+Teaching Assistant: Longze Li (li8975@vandals.uidaho.edu) 
 
 Semester: Fall 2023 (August 21 – December 15)
 
