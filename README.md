@@ -3,6 +3,8 @@
 
 Instructor: [Alex Vakanski](https://www.webpages.uidaho.edu/vakanski/index.html)
 
+Teaching Assistant: Longze Li (li8975@vandals.uidaho.edu)
+
 Semester: Fall 2023 (August 21 – December 15)
 
 <a href="docs/Lectures/CS_404_504-ST_Python_Programming_for_Data_Science-Syllabus.pdf">Course Syllabus</a>
