@@ -1,9 +1,9 @@
 # CS 404/504 – Special Topics: Python Programming for Data Science
 [University of Idaho](https://www.uidaho.edu) - [Department of Computer Science](https://www.uidaho.edu/engr/departments/cs)
 
-*Instructor*: [Alex Vakanski](https://www.webpages.uidaho.edu/vakanski/index.html) (vakanski@uidaho.edu)
+Instructor: [Alex Vakanski](https://www.webpages.uidaho.edu/vakanski/index.html) (vakanski@uidaho.edu)
 
-*Teaching Assistant*: Longze Li (li8975@vandals.uidaho.edu) 
+Teaching Assistant: Longze Li (li8975@vandals.uidaho.edu) 
 
 Semester: Fall 2023 (August 21 – December 15)
 
