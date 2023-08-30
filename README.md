@@ -21,7 +21,7 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators,_Generators/Lecture_4-Functions.ipynb">Lecture 4 - Functions, Iterators, Generators</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
-* <a href="docs/Lectures/Theme_1-Python_Programming/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb">Tutorial 1 - Jupyter Notebooks</a>
+* <a href="docs/Lectures/Theme_1-Python_Programming/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb">Tutorial 2 - Terminal and Command Line</a>
 
 (new lectures will be added throughout the semester)
 
