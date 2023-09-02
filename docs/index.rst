@@ -59,6 +59,7 @@ Lectures
    Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb
    Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb
    Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators,_Generators/Lecture_4-Functions.ipynb
+   Lectures/Theme_1-Python_Programming/Lecture_5-OOP/Lecture_5-OOP.ipynb
    Lectures/Theme_1-Python_Programming/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb
    Lectures/Theme_1-Python_Programming/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb
 
