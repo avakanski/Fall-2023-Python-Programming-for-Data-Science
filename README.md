@@ -24,6 +24,7 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_6-Exceptions,_Modules/Lecture_6-Exceptions,_Modules.ipynb">Lecture 6 - Exceptions, Modules and Packages</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb">Tutorial 2 - Terminal and Command Line</a>
+* <a href="docs/Lectures/Theme_1-Python_Programming/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb">Tutorial 3 - Python IDEs, VS Codes</a>
 
 (new lectures will be added throughout the semester)
 
