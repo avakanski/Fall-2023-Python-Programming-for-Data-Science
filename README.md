@@ -27,6 +27,8 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_1-Python_Programming/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb">Tutorial 3 - Python IDEs, VS Codes</a>
 ### Theme 2: Data Engineering Pipelines
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_7-NumPy/Lecture_7-NumPy.ipynb">Lecture 7 - NumPy for Array Operations</a>
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_8-Pandas/Lecture_8-Pandas.ipynb">Lecture 8 - Data Manipulation with Pandas</a>
+
 
 (new lectures will be added throughout the semester)
 
