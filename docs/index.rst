@@ -65,4 +65,10 @@ Lectures
    Lectures/Theme_1-Python_Programming/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb
    Lectures/Theme_1-Python_Programming/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb
 
+.. toctree::
+   :caption: Theme 2 - Data Engineering Pipelines
+   :maxdepth: 2
+
+   Lectures/Theme_2-Data_Engineering/Lecture_7-NumPy/Lecture_7-NumPy.ipynb
+
 (new lectures will be added throughout the semester)
