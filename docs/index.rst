@@ -61,14 +61,23 @@ Lectures
    Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators,_Generators/Lecture_4-Functions.ipynb
    Lectures/Theme_1-Python_Programming/Lecture_5-OOP/Lecture_5-OOP.ipynb
    Lectures/Theme_1-Python_Programming/Lecture_6-Exceptions,_Modules/Lecture_6-Exceptions,_Modules.ipynb
-   Lectures/Theme_1-Python_Programming/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb
-   Lectures/Theme_1-Python_Programming/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb
-   Lectures/Theme_1-Python_Programming/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb
+  
 
 .. toctree::
    :caption: Theme 2 - Data Engineering Pipelines
    :maxdepth: 2
 
    Lectures/Theme_2-Data_Engineering/Lecture_7-NumPy/Lecture_7-NumPy.ipynb
+
+
+.. toctree::
+   :caption: Tutorials
+   :maxdepth: 2
+
+   Lectures/Theme_1-Python_Programming/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb
+   Lectures/Theme_1-Python_Programming/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb
+   Lectures/Theme_1-Python_Programming/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb
+
+   
 
 (new lectures will be added throughout the semester)
