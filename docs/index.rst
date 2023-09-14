@@ -78,6 +78,7 @@ Lectures
    Lectures/Theme_1-Python_Programming/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb
    Lectures/Theme_1-Python_Programming/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb
    Lectures/Theme_1-Python_Programming/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb
+   Lectures/heme_2-Data_Engineering/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb
 
    
 
