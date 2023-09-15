@@ -69,6 +69,8 @@ Lectures
 
    Lectures/Theme_2-Data_Engineering/Lecture_7-NumPy/Lecture_7-NumPy.ipynb
    Lectures/Theme_2-Data_Engineering/Lecture_8-Pandas/Lecture_8-Pandas.ipynb
+   Lectures/Theme_2-Data_Engineering/Lecture_9-Matplotlib/Lecture_9-Matplotlib.ipynb
+   Lectures/Theme_2-Data_Engineering/Lecture_10-SQL/Lecture_10-SQL.ipynb
 
 
 .. toctree::
