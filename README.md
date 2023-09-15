@@ -28,6 +28,8 @@ Semester: Fall 2023 (August 21 – December 15)
 ### Theme 2: Data Engineering Pipelines
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_7-NumPy/Lecture_7-NumPy.ipynb">Lecture 7 - NumPy for Array Operations</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_8-Pandas/Lecture_8-Pandas.ipynb">Lecture 8 - Data Manipulation with Pandas</a>
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_9-Matplotlib/Lecture_9-Matplotlib.ipynb">Lecture 9 - Data Visualization with Matplotlib</a>
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_10-SQL/Lecture_10-SQL.ipynb">Lecture 10 - Databases and SQL</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb">Tutorial 4 -Virtual Environments</a>
 
 
