@@ -81,6 +81,7 @@ Lectures
    Lectures/Theme_1-Python_Programming/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb
    Lectures/Theme_1-Python_Programming/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb
    Lectures/Theme_2-Data_Engineering/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb
+   Lectures/Theme_2-Data_Engineering/Tutorial_5-Web_Scraping/Tutorial_5-Web_Scraping.ipynb
 
    
 
