@@ -72,6 +72,7 @@ Lectures
    Lectures/Theme_2-Data_Engineering/Lecture_9-Matplotlib/Lecture_9-Matplotlib.ipynb
    Lectures/Theme_2-Data_Engineering/Lecture_10-SQL/Lecture_10-SQL.ipynb
    Lectures/Theme_2-Data_Engineering/Lecture_11-Data_Exploration/Lecture_11-Data_Exploration_and_Preprocessing.ipynb
+   Lectures/Theme_2-Data_Engineering/Lecture_12-Seaborn/Lecture_12-Seaborn.ipynb
 
 
 .. toctree::
