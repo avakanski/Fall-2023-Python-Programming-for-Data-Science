@@ -31,6 +31,7 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_9-Matplotlib/Lecture_9-Matplotlib.ipynb">Lecture 9 - Data Visualization with Matplotlib</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_10-SQL/Lecture_10-SQL.ipynb">Lecture 10 - Databases and SQL</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_11-Data_Exploration/Lecture_11-Data_Exploration_and_Preprocessing.ipynb">Lecture 11 - Data Exploration and Preprocessing</a>
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_12-Seaborn/Lecture_12-Seaborn.ipynb">Lecture 12 - Data Visualization with Seaborn</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb">Tutorial 4 - Virtual Environments</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Tutorial_5-Web_Scraping/Tutorial_5-Web_Scraping.ipynb">Tutorial 5 - Web Scraping</a>
 
