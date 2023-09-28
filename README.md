@@ -34,6 +34,7 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_12-Seaborn/Lecture_12-Seaborn.ipynb">Lecture 12 - Data Visualization with Seaborn</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb">Tutorial 4 - Virtual Environments</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Tutorial_5-Web_Scraping/Tutorial_5-Web_Scraping.ipynb">Tutorial 5 - Web Scraping</a>
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Tutorial_6-Google_Colab/Tutorial_6-Google_Colab.ipynb">Tutorial 6 - Google Colab</a>
 
 
 (new lectures will be added throughout the semester)
