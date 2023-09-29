@@ -35,6 +35,8 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb">Tutorial 4 - Virtual Environments</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Tutorial_5-Web_Scraping/Tutorial_5-Web_Scraping.ipynb">Tutorial 5 - Web Scraping</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Tutorial_6-Google_Colab/Tutorial_6-Google_Colab.ipynb">Tutorial 6 - Google Colab</a>
+### Theme 3: Model Engineering Pipelines
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_13-Scikit-Learn/Lecture_13-Scikit-Learn.ipynb">Lecture 13 - Scikit-Learn Library for Data Sceince</a>
 
 
 (new lectures will be added throughout the semester)
