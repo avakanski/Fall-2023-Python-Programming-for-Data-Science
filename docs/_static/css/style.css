@@ -31,3 +31,8 @@ p {
 .rst-content h6 {
     margin-top: 1em; 
 }
+
+/* Increase the width of the left panel */
+.wy-nav-side {
+    width: 300px; /* Adjust the width as needed */
+}
