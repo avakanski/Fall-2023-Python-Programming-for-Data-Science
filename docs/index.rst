@@ -91,6 +91,7 @@ Lectures
    Lectures/Theme_2-Data_Engineering/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb
    Lectures/Theme_2-Data_Engineering/Tutorial_5-Web_Scraping/Tutorial_5-Web_Scraping.ipynb
    Lectures/Theme_2-Data_Engineering/Tutorial_6-Google_Colab/Tutorial_6-Google_Colab.ipynb
+   Lectures/Theme_3-Model_Engineering/Tutorial_7-Image_Processing/Tutorial_7-Image_Processing.ipynb
 
    
 
