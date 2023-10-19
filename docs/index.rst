@@ -80,6 +80,7 @@ Lectures
 
    Lectures/Theme_3-Model_Engineering/Lecture_13-Scikit-Learn/Lecture_13-Scikit-Learn.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_14-Ensemble_Methods/Lecture_14-Ensemble_Methods.ipynb
+   Lectures/Theme_3-Model_Engineering/Lecture_15-ANNs/Lecture_15-ANNs.ipynb
 
 
 .. toctree::
