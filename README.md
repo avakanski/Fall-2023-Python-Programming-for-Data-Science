@@ -39,6 +39,7 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_13-Scikit-Learn/Lecture_13-Scikit-Learn.ipynb">Lecture 13 - Scikit-Learn Library for Data Sceince</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_14-Ensemble_Methods/Lecture_14-Ensemble_Methods.ipynb">Lecture 14 - Ensemble Methods</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_15-ANNs/Lecture_15-ANNs.ipynb">Lecture 15 - Artificial Neural Networks</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_16-ConvNets/Lecture_16-ConvNets.ipynb">Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_7-Image_Processing/Tutorial_7-Image_Processing.ipynb">Tutorial 7 - Image Processing</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_8-TensorFlow/Tutorial_8-TensorFlow.ipynb">Tutorial 8 - TensorFlow</a>
 
