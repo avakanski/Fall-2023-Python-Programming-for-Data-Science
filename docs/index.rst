@@ -82,6 +82,7 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_14-Ensemble_Methods/Lecture_14-Ensemble_Methods.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_15-ANNs/Lecture_15-ANNs.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_16-ConvNets/Lecture_16-ConvNets.ipynb
+   Lectures/Theme_3-Model_Engineering/Lecture_17-Model_Selection,Tuning/Lecture_17-Model_Selection.ipynb
 
 
 .. toctree::
