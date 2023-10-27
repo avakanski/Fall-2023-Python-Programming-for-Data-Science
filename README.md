@@ -42,6 +42,7 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_16-ConvNets/Lecture_16-ConvNets.ipynb">Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_17-Model_Selection,Tuning/Lecture_17-Model_Selection.ipynb">Lecture 17 - Model Selection, Hyperparameter Tuning
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_8-TensorFlow/Tutorial_8-TensorFlow.ipynb">Tutorial 8 - TensorFlow</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb">Tutorial 9 - PyTorch</a>
 
 
 (new lectures will be added throughout the semester)
