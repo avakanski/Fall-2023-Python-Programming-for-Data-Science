@@ -40,7 +40,8 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_14-Ensemble_Methods/Lecture_14-Ensemble_Methods.ipynb">Lecture 14 - Ensemble Methods</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_15-ANNs/Lecture_15-ANNs.ipynb">Lecture 15 - Artificial Neural Networks</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_16-ConvNets/Lecture_16-ConvNets.ipynb">Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow</a>
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_17-Model_Selection,Tuning/Lecture_17-Model_Selection.ipynb">Lecture 17 - Model Selection, Hyperparameter Tuning
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_17-Model_Selection,Tuning/Lecture_17-Model_Selection.ipynb">Lecture 17 - Model Selection, Hyperparameter Tuning</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_18-NNs_with_PyTorch/Lecture_18-NNs_with_PyTorch.ipynb">Lecture 18 - Neural Networks with PyTorch</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_8-TensorFlow/Tutorial_8-TensorFlow.ipynb">Tutorial 8 - TensorFlow</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb">Tutorial 9 - PyTorch</a>
 
