@@ -85,6 +85,7 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_17-Model_Selection,Tuning/Lecture_17-Model_Selection.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_18-NNs_with_PyTorch/Lecture_18-NNs_with_PyTorch.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_19-Natural_Language_Processing/Lecture_19-NLP.ipynb
+   Lectures/Theme_3-Model_Engineering/Lecture_20-Transformer_Networks/Lecture_20-Transformer_Networks.ipynb
 
 
 .. toctree::
