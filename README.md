@@ -46,6 +46,7 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_20-Transformer_Networks/Lecture_20-Transformer_Networks.ipynb">Lecture 20 - Transformer Networks</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_8-TensorFlow/Tutorial_8-TensorFlow.ipynb">Tutorial 8 - TensorFlow</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb">Tutorial 9 - PyTorch</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_10-TensorFlow_Datasets/Tutorial_10-TensorFlow_Datasets.ipynb">Tutorial 10 - TensorFlow Datasets</a>
 
 
 (new lectures will be added throughout the semester)
