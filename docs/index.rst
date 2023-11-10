@@ -104,6 +104,8 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Tutorial_8-TensorFlow/Tutorial_8-TensorFlow.ipynb
    Lectures/Theme_3-Model_Engineering/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb
    Lectures/Theme_3-Model_Engineering/Tutorial_10-TensorFlow_Datasets/Tutorial_10-TensorFlow_Datasets.ipynb
+   Lectures/Theme_3-Model_Engineering/Tutorial_11-CometML/Tutorial_11-CometML.ipynb
+
 
    
 
