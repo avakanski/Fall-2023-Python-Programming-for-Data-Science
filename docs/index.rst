@@ -87,6 +87,7 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_19-Natural_Language_Processing/Lecture_19-NLP.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_20-Transformer_Networks/Lecture_20-Transformer_Networks.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_21-NLP_with_Hugging_Face/Lecture_21-NLP_with_Hugging_Face.ipynb
+   Lectures/Theme_3-Model_Engineering/Lecture_22-Diffusion_Models/Lecture_22-Diffusion_Models.ipynb
 
 
 .. toctree::
