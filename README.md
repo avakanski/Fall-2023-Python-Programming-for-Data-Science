@@ -51,6 +51,7 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb">Tutorial 9 - PyTorch</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_10-TensorFlow_Datasets/Tutorial_10-TensorFlow_Datasets.ipynb">Tutorial 10 - TensorFlow Datasets</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_11-CometML/Tutorial_11-CometML.ipynb">Tutorial 11 - Experiment Monitoring with CometML</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_12-GitHub/Tutorial_12-GitHub.ipynb">Tutorial 12 - GitHub</a>
 
 
 
