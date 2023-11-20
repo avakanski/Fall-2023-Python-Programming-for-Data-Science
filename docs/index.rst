@@ -90,6 +90,14 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_22-Diffusion_Models/Lecture_22-Diffusion_Models.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_23-LLMs/Lecture_23-LLMs.ipynb
 
+.. toctree::
+   :caption: Theme 3 - Model Deployment Pipelines
+   :maxdepth: 2
+
+   pdf_link_lecture24
+   Lectures/Theme_4-Model_Deployment/Lecture_25-Deploying_to_Web/Lecture_25-Deploying_to_Web.ipynb
+   Lectures/Theme_4-Model_Deployment/Lecture_26-Deploying_to_Cloud/Lecture_26-Deploying_to_Cloud.ipynb
+   Lectures/Theme_4-Model_Deployment/Lecture_27-Reproducible_Projects/Lecture_27-Reproducible_Projects.ipynb
 
 .. toctree::
    :caption: Tutorials
@@ -108,8 +116,3 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Tutorial_11-CometML/Tutorial_11-CometML.ipynb
    Lectures/Theme_3-Model_Engineering/Tutorial_12-GitHub/Tutorial_12-GitHub.ipynb
 
-
-
-   
-
-(new lectures will be added throughout the semester)
