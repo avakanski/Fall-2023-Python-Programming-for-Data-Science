@@ -91,7 +91,7 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_23-LLMs/Lecture_23-LLMs.ipynb
 
 .. toctree::
-   :caption: Theme 3 - Model Deployment Pipelines
+   :caption: Theme 4 - Model Deployment Pipelines
    :maxdepth: 2
 
    pdf_link_lecture24
