@@ -52,11 +52,11 @@ Semester: Fall 2023 (August 21 – December 15)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_10-TensorFlow_Datasets/Tutorial_10-TensorFlow_Datasets.ipynb">Tutorial 10 - TensorFlow Datasets</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_11-CometML/Tutorial_11-CometML.ipynb">Tutorial 11 - Experiment Monitoring with CometML</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Tutorial_12-GitHub/Tutorial_12-GitHub.ipynb">Tutorial 12 - GitHub</a>
-
-
-
-(new lectures will be added throughout the semester)
-
+## Theme 4: Model Deployment Pipelines
+* <a href="Lectures/Theme_4-Model_Deployment/Lecture_24-DSOps/Lecture_24-DSOps.pdf">Lecture 24 - Introduction to Data Science Operations (DSOps)</a>
+* <a href="Lectures/Theme_4-Model_Deployment/Lecture_25-Deploying_to_Web/Lecture_25-Deploying_to_Web.ipynb">Lecture 25 - Deploying Projects as Web Applications</a>
+* <a href="Lectures/Theme_4-Model_Deployment/Lecture_26-Deploying_to_Cloud/Lecture_26-Deploying_to_Cloud.ipynb">Lecture 26 - Deploying Projects to the Cloud</a>
+* <a href="Lectures/Theme_4-Model_Deployment/Lecture_27-Reproducible_Projects/Lecture_27-Reproducible_Projects.ipynb">Lecture 27 - Reproducible Data Science Projects</a>
 
 ## Course Description
 The course is designed to introduce students to Python tools and libraries that are commonly used by organizations for managing the various phases in the life cycle of data science projects. The content is divided into four main themes. The first theme reviews the fundamentals of Python programming. The second theme focuses on data engineering and explores Python tools for data collection, exploration, and visualization. The next theme covers model engineering and includes topics related to model design, selection, and evaluation for image processing, natural language processing, and time series analysis. The last theme introduces Data Science Operations (DSOps) and encompasses techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production. Throughout the course, students will gain hands-on experience with various Python libraries for data science workflow management.
