@@ -24,7 +24,7 @@ def convertImage(imgData1):
 	with open('output.png','wb') as output:
 	    output.write(base64.b64decode(imgstr))
 
-@app.route('/predict/',methods=['GET','POST'])
+@app.route('/predict/',methods=['GET', 'POST'])
 def predict():
 	imgData = request.get_data()
 	convertImage(imgData)
@@ -47,4 +47,4 @@ def predict():
 	return response	
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8000)
+    app.run(debug=True)
