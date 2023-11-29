@@ -21,7 +21,7 @@ y = data['variety']
 logreg_model = LogisticRegression()
 logreg_model.fit(X, y) 
 
-# Predict the iris class based on inputs a, b,b c, d
+# Predict the iris class based on inputs a, b, c, d
 def classify(a, b, c, d):
     arr = np.array([a, b, c, d], dtype=np.float64) # Convert to numpy array
     query = arr.reshape(1, -1) # Reshape the array
