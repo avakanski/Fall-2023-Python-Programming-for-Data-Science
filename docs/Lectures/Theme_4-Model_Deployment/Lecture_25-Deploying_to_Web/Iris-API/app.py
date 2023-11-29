@@ -10,7 +10,7 @@ def index_view():
     return render_template('index.html') # Render index.html
 
 # Route 'predict' accepts GET request
-@app.route('/predict', methods=['POST','GET'])
+@app.route('/predict', methods=['GET'])
 def predict_class():
     try:
         sepal_len = request.args.get('slen') # Get parameters for sepal length
