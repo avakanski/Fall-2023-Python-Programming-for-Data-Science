@@ -115,4 +115,5 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Tutorial_10-TensorFlow_Datasets/Tutorial_10-TensorFlow_Datasets.ipynb
    Lectures/Theme_3-Model_Engineering/Tutorial_11-CometML/Tutorial_11-CometML.ipynb
    Lectures/Theme_3-Model_Engineering/Tutorial_12-GitHub/Tutorial_12-GitHub.ipynb
+   Lectures/Theme_4-Model_Deployment/Tutorial_13-GitHub_Actions/Tutorial_13-GitHub_Actions.ipynb
 
